@@ -1,6 +1,4 @@
-# Percentage_calculator
-
-📊 Percentage Calculator  
+# 📊 Percentage_calculator
 
 A Simple and efficient Percentage Calculator that allows users to quickly calculate percentages with ease.  
 
