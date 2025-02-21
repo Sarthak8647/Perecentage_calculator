@@ -1,1 +1,1 @@
-# Perecentage_calculator
+# Percentage_calculator
